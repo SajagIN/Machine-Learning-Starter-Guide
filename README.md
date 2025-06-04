@@ -96,5 +96,5 @@ To achieve proficiency in data science and machine learning, follow this structu
 
 
 > Follow this roadmap, practice consistently, and explore projects to develop your skills in data science and machine learning. Good luck on your learning journey!
-> This readme was created by [@SajagIN](https://github.com/codewhiteweb) after contacting many professionals in this field.
+> This readme was created by [@SajagIN](https://github.com/SajagIN) after contacting many professionals in this field.
 ---
